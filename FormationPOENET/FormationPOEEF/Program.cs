@@ -20,7 +20,7 @@ namespace FormationPOEEF
             db.SaveChanges();
             db.Books.Remove(book);
             db.SaveChanges();
-            books = db.Books.Where(b2 => b2.Price <= 10).ToList();
+            books = db.Books.Where(b2 => b2.Price <= 10).ToList(); //Lambda
             books = db.Publishers.Where(p => p.Name == "ENI").First().Books.ToList();
             
 
