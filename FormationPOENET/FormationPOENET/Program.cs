@@ -15,7 +15,7 @@ namespace FormationPOENET
             Media m = new Book { Title = "C#", Price = 20 };
             m.Publisher = p1;
             m.Authors.Add(new Author { Id = 1, Name = "Cyril" });
-
+            //ADO.NET
         }
     }
 }

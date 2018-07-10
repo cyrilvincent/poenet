@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormationPOENET", "FormationPOENET\FormationPOENET.csproj", "{FEE197DD-03A2-437F-973D-8BDFE2162800}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormationPOEEF", "FormationPOEEF\FormationPOEEF.csproj", "{E70CDBDC-73CC-48E2-ACC9-91A729849445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FEE197DD-03A2-437F-973D-8BDFE2162800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE197DD-03A2-437F-973D-8BDFE2162800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE197DD-03A2-437F-973D-8BDFE2162800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E70CDBDC-73CC-48E2-ACC9-91A729849445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70CDBDC-73CC-48E2-ACC9-91A729849445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70CDBDC-73CC-48E2-ACC9-91A729849445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70CDBDC-73CC-48E2-ACC9-91A729849445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
